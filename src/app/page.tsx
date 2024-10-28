@@ -216,7 +216,7 @@ export default function Home() {
        <h4>C. They control body temperature.</h4>
        <h4>D. They assist in digestion.</h4>
 
-       <h4 className="mt-9"> 35. During which phase are the chromosomes aligned at the cell's equatorial plane?</h4>
+       <h4 className="mt-9"> 35. During which phase are the chromosomes aligned at the cells equatorial plane?</h4>
        <h4>A. Prophase</h4>
        <h4>B. Metaphase</h4>
        <h4>C. Anaphase</h4>
@@ -246,11 +246,139 @@ export default function Home() {
        <h4>C. Salivary glands</h4>
        <h4>D. Sweat glands</h4>
 
-       <h4 className="mt-9"> 40.   Which hormone is responsible for the "fight or flight" response?</h4>
+       <h4 className="mt-9"> 40.   Which hormone is responsible for the  &quot;fight or flight&quot; response?</h4>
        <h4>A. Insulin</h4>
        <h4>B. Adrenaline</h4>
        <h4>C. Thyroxine</h4>
        <h4>D. Estrogen</h4>
+      </div>
+      <div className="p-4 md:p-8 lg:p-12">
+    <h1 className="text-center text-blue-900 text-2xl md:text-3xl font-bold mt-2">Short Questions</h1>
+      <h4 className="mt-3">EXAMINATION PAPER 2024</h4>
+      <h4 className="mt-3">Class 10th</h4>
+      <h4 className="mt-3"> Biology Paper II</h4>
+      <h4 className="mt-3">  Time: 1 hour 50 minutes	Marks: : 25</h4>
+      <h4 className="mt-9"> QUESTION 1 : <br/>part a - Describe the stages of the cell cycle and explain the significance of each stage?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4>part-b What are the main differences between mitosis and cytokinesis, and why are both processes essential for cell division?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4> QUESTION 2 :<br/> part-a.	Mention any TWO ways through which heat is lost from the human body?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4> part-b. If this cell undergoes meiosis, then draw the chromosomes in the cell during prophase I, metaphase I
+and metaphase II?</h4>
+   <div className="h-[300px] w-full border-[2px] border-slate-500 mt-9"></div>
+   <h4 className="mt-9"> QUESTION 3 : <br/>part-a Explain the role of hormones in human body coordination. Provide examples of two hormones and their functions?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4> part-b  Describe the structure and function of neurons in the nervous system?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4> QUESTION 4 :  <br/> part-a  Describe the types of skeletons found in animals. Discuss the advantages of having an endoskeleton?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4>part-b Explain the role of the ovary in the female reproductive system.?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h1 className="text-center text-blue-900 text-2xl md:text-3xl font-bold mt-2">Long Questions</h1>
+      <h4> QUESTION 5 :</h4>
+      <h4 className="text-center font-extrabold text-blue-900 mt-9"> EITHER </h4>
+      <h4 className="mt-9">part-a <br/>  Mention any FOUR physiological changes that would take place in the human body as a result of increased adrenaline level?</h4>
+      <h4 className="mt-9">part-b  <br/> Describe the importance of any TWO physiological changes mentioned in part-a for exercise or emergency situation.?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4 className="text-center font-extrabold text-blue-900 mt-9"> OR </h4>
+      <h4 className="mt-9">part-a <br/>  Describe the structural adaptation of a wind-pollinated flower with reference to its petals, pollen, stamens and stigmas.?</h4>
+      <h4 className="mt-9">part-b  <br/>	Mention the importance of any TWO structures given in part-a adapted for pollination through wind?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4> QUESTION 6 :</h4>
+      <h4 className="text-center font-extrabold text-blue-900 mt-9"> EITHER </h4>
+      <h4 className="mt-9">part-a <br/>  Explain the concept of homeostasis. Discuss the mechanisms involved in thermoregulation in humans, including the role of the hypothalamus?</h4>
+      <h4 className="mt-9">part-b  <br/> Discuss the different types of joints in the human skeletal system. Explain how these joints contribute to movement and give examples of each type?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h4 className="text-center font-extrabold text-blue-900 mt-9"> OR </h4>
+      <h4 className="mt-9">part-a <br/>  Describe the structure and function of neurons in the nervous system. How do they facilitate communication within the body?</h4>
+      <h4 className="mt-9">part-b  <br/>	Explain the role of hormones in the coordination of bodily functions. Choose two hormones, describe their functions, and discuss how they interact to maintain homeostasis?</h4>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2  border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <hr className="border-t-2 border-slate-600 my-4 mt-9"/>
+      <h2 className="text-center text-slate-500 font-extrabold mt-[90px]">GOOD LUCK </h2>
       </div>
     </div>
   );
